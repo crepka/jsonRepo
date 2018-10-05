@@ -1,9 +1,10 @@
 {
   "Navigation": [
+    {
       "buttons": [
         {
           "text": "Home",
-          "link": "#home"
+          "link": "http://www.monoprice.com"
         },
         {
           "text": "Home1",
@@ -16,7 +17,7 @@
         {
           "text": "Home3",
           "link": "#home3"
+        }
       ]
     }
-  ]
-}
+  ]}
