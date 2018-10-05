@@ -1,6 +1,5 @@
 {
   "Navigation": [
-    {
       "buttons": [
         {
           "text": "Home",
@@ -17,7 +16,6 @@
         {
           "text": "Home3",
           "link": "#home3"
-        }
       ]
     }
   ]
