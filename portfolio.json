@@ -1,1 +1,27 @@
 
+{
+  
+  "Navigation": [
+    {
+      "buttons": [
+        {
+          "text": "Home",
+          "link": "#home"
+        },
+        {
+          "text": "Home1",
+          "link": "#home1"
+        },
+        {
+          "text": "Home2",
+          "link": "#home2"
+        },
+        {
+          "text": "Home3",
+          "link": "#home3"
+        },
+      ]
+    }
+  ]
+
+}
