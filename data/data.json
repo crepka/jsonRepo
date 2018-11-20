@@ -1,27 +1,4 @@
-{
-      "Navigation":
       {
-        "buttons": [
-          {
-            "text": "HOME",
-            "link": "http://localhost/index1.html"
-          },
-          {
-            "text": "ABOUT",
-            "link": "#about"
-          },
-          {
-            "text": "PORTFOLIO",
-            "link": "#portfolio"
-          }
-        ]
-      },
-
-    "AboutMe": {
-      "img": "http://ctrepka.site/images/selfportrait.png",
-      "text": "Chris Repka is an emerging digital humanities professional skilled in analysis, research, Geographic Information Systems, Adobe Creative Cloud, and Web Design. Chris holds a Bachelor's of Arts in Public History from St. Mary's University and is currently pursuing a Master's of Science in Information Studies at the University of Texas at Austin. His career asperation is to work with libraries and museums to improve the user-experiences and design of digital services."},
-
-    "Portfolio":{
       "cards":
       [
         {
@@ -76,5 +53,3 @@
             }
       ]
     }
-
-}
