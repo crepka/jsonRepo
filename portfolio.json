@@ -1,0 +1,80 @@
+{
+      "Navigation":
+      {
+        "buttons": [
+          {
+            "text": "HOME",
+            "link": "http://localhost/index1.html"
+          },
+          {
+            "text": "ABOUT",
+            "link": "#about"
+          },
+          {
+            "text": "PORTFOLIO",
+            "link": "#portfolio"
+          }
+        ]
+      },
+
+    "AboutMe": {
+      "img": "http://ctrepka.site/images/selfportrait.png",
+      "text": "Chris Repka is an emerging digital humanities professional skilled in analysis, research, Geographic Information Systems, Adobe Creative Cloud, and Web Design. Chris holds a Bachelor's of Arts in Public History from St. Mary's University and is currently pursuing a Master's of Science in Information Studies at the University of Texas at Austin. His career asperation is to work with libraries and museums to improve the user-experiences and design of digital services."},
+
+    "Portfolio":{
+      "cards":
+      [
+        {
+          "img": "/portfolio/images/",
+          "text": "In this project, I created a web-application that linked archival documents to a dataset of over 21,000 resident data points compiled from an 1897 city directory of San Antonio.",
+          "id": "SA 1897 City Directory Map",
+          "modal":[
+                "apricot",
+                "apple",
+                "banana"
+              ]
+            },
+        {
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "id": "SA Missions AR Application",
+          "modal": [
+                "2",
+                "4",
+                "bana"
+              ]
+            },
+            {
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "id": "Hispanic San Antonio History",
+          "modal": [
+                "apot",
+                "app",
+                "bana"
+              ]
+            },
+            {
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "id": "'You Are Here' Conference, FA18",
+          "modal":[
+                "ricot",
+                "ple",
+                "nana"
+              ]
+            },
+            {
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "id": "'Undergraduate Research Day', SP17",
+          "modal":[
+                "rot",
+                "ale",
+                "ban"
+              ]
+            }
+      ]
+    }
+
+}
