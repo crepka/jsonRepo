@@ -3,7 +3,7 @@
       [
         {
           "id": "1",   
-          "img": "/portfolio/images/",
+          "img": "portfolio/images/",
           "text": "In this project, I created a web-application that linked archival documents to a dataset of over 21,000 resident data points compiled from an 1897 city directory of San Antonio.",
           "title": "SA 1897 City Directory Map",
           "modal":[
