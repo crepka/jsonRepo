@@ -1,0 +1,60 @@
+      {
+      "data":
+      [
+        {
+          "id": "0",   
+          "img": "portfolio/images/",
+          "text": "In this project, I created a web-application that linked archival documents to a dataset of over 21,000 resident data points compiled from an 1897 city directory of San Antonio.",
+          "title": "SA 1897 City Directory Map",
+          "modal":[
+                "apricot",
+                "apple",
+                "banana"
+              ]
+            },
+        {
+          "id": "1",
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "title": "SA Missions AR Application",
+          "modal": [
+                "2",
+                "4",
+                "bana"
+              ]
+            },
+            {
+          "id": "2",
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "title": "Hispanic San Antonio History",
+          "modal": [
+                "apot",
+                "app",
+                "bana"
+              ]
+            },
+            {
+          "id": "3",
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "title": "'You Are Here' Conference, FA18",
+          "modal":[
+                "ricot",
+                "ple",
+                "nana"
+              ]
+            },
+            {
+          "id": "4",
+          "img": "/portfolio/images/",
+          "text": "test text that describes Christopher Repka as a professional",
+          "title": "'Undergraduate Research Day', SP17",
+          "modal":[
+                "rot",
+                "ale",
+                "ban"
+              ]
+            }
+      ]
+    }
