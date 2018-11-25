@@ -7,12 +7,12 @@
           "text": "In this project, I created a web-application that linked archival documents to a dataset of over 21,000 resident data points compiled from an 1897 city directory of San Antonio.",
           "title": "SA 1897 City Directory Map",
           "modal":[
-                "/images/0/0.png",
-                "/images/0/1.png",
-                "/images/0/2.png",
-                "/images/0/3.png",
-                "/images/0/4.png",
-                "/images/0/5.png"
+                "https://github.com/crepka/jsonRepo/upload/master/images/0/0.png",
+                "https://github.com/crepka/jsonRepo/upload/master/images/0/1.png",
+                "https://github.com/crepka/jsonRepo/upload/master/images/0/2.png",
+                "https://github.com/crepka/jsonRepo/upload/master/images/0/3.png",
+                "https://github.com/crepka/jsonRepo/upload/master/images/0/4.png",
+                "https://github.com/crepka/jsonRepo/upload/master/images/0/5.png"
               ]
             },
         {
